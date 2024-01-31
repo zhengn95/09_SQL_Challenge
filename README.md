@@ -3,7 +3,7 @@ Challenge 9 for UC Berkeley Data Analytics Bootcamp. In this assignment, we use 
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis. 
 
-**Data Modeling:** The company's CSV files were inspected, and then an Entity Relationship Diagram (EDR) of the tables was sketched using QuickDBD and PostgreSQL. 
+**Data Modeling:** The company's CSV files were inspected, and then an Entity Relationship Diagram (ERD) of the tables was sketched using QuickDBD and PostgreSQL. 
 
 **Data Engineering:** Using the provided information, a table schema for each of the six CSV files was created specifying the data types, primary keys, foreign keys, and other constraints. The corresponding CSV file was imported into its corresponding SQL table.
 
